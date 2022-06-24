@@ -1,0 +1,13 @@
+name: 'Unreliable Pineaple'
+description: 'What it says on the box'
+inputs:
+  who-to-greet:
+    description: 'Who to greet'
+    required: true
+    default: 'World'
+outputs:
+  time:
+    description: 'When you were greeted'
+runs:
+  using: 'node12'
+  main: 'main.js'

@@ -1,0 +1,27 @@
+{
+  "name": "unreliable-pineapple",
+  "version": "1.0.0",
+  "description": "What it says on the box",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crackitty/unreliable-pineapple.git"
+  },
+  "keywords": [
+    "github",
+    "action"
+  ],
+  "author": "Charlie Roche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crackitty/unreliable-pineapple/issues"
+  },
+  "homepage": "https://github.com/crackitty/unreliable-pineapple#readme",
+  "dependencies": {
+    "@actions/core": "^1.9.0",
+    "@actions/github": "^5.0.3"
+  }
+}
