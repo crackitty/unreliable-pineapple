@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: crackitty/unreliable-pineaple@v1
+      uses: crackitty/unreliable-pineapple@v1
       with:
         who-to-greet: 'Charlie'
     - name: Get the output
